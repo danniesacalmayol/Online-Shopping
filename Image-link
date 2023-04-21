@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Online Shopping</title>
+    </head>
+    <body>
+        <main>
+               <h2>Shopee</h2>
+               <figure>
+              <a href="https://shopee.ph/"><img src="img/shopee.png" alt="shopee-icon" title="shopee-image"
+                width="200" height="200" loading="lazy"></a>
+                <figcaption>
+                    <p>Tara na sa <a href="https://shopee.ph/">shopee!</a></p>
+                </figcaption>
+                </figure>
+
+                <h2>Lazada</h2>
+                <figure>
+                <a href="https://www.lazada.com.ph/"><img src="img/lazada.png" alt="lazada-icon" title="lazada-image"
+                    width="300" height="300" loading="lazy"></a>
+                    <figcaption>
+                        <p>Basta <a href="https://www.lazada.com.ph">Lazada</a> sulit!</p>
+                    </figcaption>
+                </figure>
+
+                <h2>Ebay</h2>
+                <figure>
+                <a href="https://www.ebay.ph/"><img src="img/ebay.png" alt="ebay-icon" title="ebay-image"
+                    width="300" height="300" loading="lazy"></a>
+                    <figcaption>
+                        <p>e <a href="https://www.ebay.ph/">Ebay</a> Muna Yan!</p>
+                    </figcaption>
+                </figure>
+
+                <h2>Shein</h2>
+                <figure>
+                <a href="https://ph.shein.com/"><img src="img/shein.jpg" alt="shein-icon" title="shein-image"
+                    width="300" height="300" loading="lazy"></a>
+                    <figcaption>
+                        <p>magsha-sha-shine ka sa <a href="https://ph.shein.com/">Shein</a>!</p>
+                    </figcaption>
+                </figure>
+
+                <h2>Amazon</h2>
+                <figure>
+                <a href="https://amazon.com/"><img src="img/amazon.png" alt="amazon-icon" title="amazon-image"
+                    width="300" height="300" loading="lazy"></a>
+                    <figcaption>
+                        <p> Go sa <a href="https://ph.shein.com/">amazon</a> kono!</p>
+                    </figcaption>
+                </figure>
+        </main>
+    </body>
+
+</html>
